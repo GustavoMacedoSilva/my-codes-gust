@@ -1,0 +1,4 @@
+Fornecedora: Tim
+Nome: A
+CPF: 12345678910
+Valor a ser pago: R$13.50 por semana.
