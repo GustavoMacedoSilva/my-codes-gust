@@ -1,0 +1,38 @@
+C005 - linguagem de programação e compiladores
+c205 - programação orientada a objetos
+c207 - banco de dados
+e208 - eletronica digital
+m005 - calculo 3
+e209 - sistemas microcontrolados e microprocessados
+g304 - gestao de projetos 1
+h001 - administração
+h002 - economia
+m019 - probabilidade
+s201 - paradigmas da programação
+s202 - banco de dados 2
+c208 - arquiteturas de computadores
+c209 - computação grafica e multimidia
+m106 - calculo numerico
+m109 - estatistica
+m210 - otimização 1
+s203 - arquitetura e desenho de software
+s206 - qualidade de software
+c012 - sistemas operacionais
+c111 - analise de dados
+c210 - inteligencia computacional
+s204 - engenharia de produto de software
+s308 - diciplina eletiva 1
+t202 - redes de computadores
+c214 - engenharia de software
+p108 - otimização 2
+s107 - gerencia de configurações e evolucao de software
+s205 - interface homem maquina
+s309 - diciplina eletiva 2
+t106 - gerencia, QoS e segurança em redes
+c317 topicos especiais
+est1 - estagio supervisionado
+h003 - humanidades, ciencias sociais e cidadania
+h005 - ciencia do ambiente
+c216 - sistemas distribuidos
+c318 - topicos especiais 2
+tcc1 - o maldito
